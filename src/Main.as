@@ -16,7 +16,7 @@ public class Main extends Sprite
         stage.align = StageAlign.TOP_LEFT;
         stage.scaleMode = StageScaleMode.NO_SCALE;
 
-        _appModel  new AppModel();
+        _appModel =  new AppModel();
 
     }
 }
